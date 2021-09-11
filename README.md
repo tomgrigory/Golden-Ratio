@@ -1,2 +1,2 @@
 # Golden-Ratio
-This repo is my hack for the #hackbenchers4  hackathon.
+A shitty project I made for a hackathon for the first time
